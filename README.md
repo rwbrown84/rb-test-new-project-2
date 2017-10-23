@@ -66,3 +66,6 @@ suggestions on our forum.
 
 User Guide: http://docs.aws.amazon.com/codestar/latest/userguide/welcome.html
 Forum: https://forums.aws.amazon.com/forum.jspa?forumID=248
+
+
+Test cloud update 10.23.2017 to AWS Codestar
